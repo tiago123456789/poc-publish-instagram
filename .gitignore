@@ -1,0 +1,5 @@
+.env
+node_modules/
+cookies.json
+db-data/
+.vscode/
